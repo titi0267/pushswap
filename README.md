@@ -1,4 +1,4 @@
-# B-CPE-110-STG-1-1-pushswap-timothe.coniel
+# Pushswap
 Sorting algorithm
 
 The game is made up of two lists of numbers named l_a and l_b.
